@@ -17,5 +17,4 @@ The vms are used to use the full resources of the system.
 But in most of the cases the resources are not efficiently used to overcome this the containers are very useful.
 Containerization is all about efficiency. There are multiple containerization tools like podman and buildah.
 
-This repository mainly focused on the docker.
-
+The will not come with any auto scaling and auto healing so we need some other tools for this to happen.
